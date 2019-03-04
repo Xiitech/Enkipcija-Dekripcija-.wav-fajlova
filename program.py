@@ -1,4 +1,4 @@
-### Autor: Mateja Radojičić ###
+##### Autor: Mateja Radojičić #####
 
 ######################## Imports ########################
 import sys,os
